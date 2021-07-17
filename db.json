@@ -1,91 +1,144 @@
-[{
-  "id": 1,
-  "first_name": "Sheila",
-  "last_name": "Jockle",
-  "email": "sjockle0@skyrock.com",
-  "ip_address": "29.2.44.125"
-}, {
-  "id": 2,
-  "first_name": "Ardyce",
-  "last_name": "Studdeard",
-  "email": "astuddeard1@odnoklassniki.ru",
-  "ip_address": "10.85.78.207"
-}, {
-  "id": 3,
-  "first_name": "Ivar",
-  "last_name": "Boxill",
-  "email": "iboxill2@cbslocal.com",
-  "ip_address": "101.5.208.26"
-}, {
-  "id": 4,
-  "first_name": "Stanly",
-  "last_name": "Bartolomeoni",
-  "email": "sbartolomeoni3@drupal.org",
-  "ip_address": "127.190.112.82"
-}, {
-  "id": 5,
-  "first_name": "Alli",
-  "last_name": "Fahrenbacher",
-  "email": "afahrenbacher4@addtoany.com",
-  "ip_address": "234.142.164.39"
-}, {
-  "id": 6,
-  "first_name": "Georgi",
-  "last_name": "Petty",
-  "email": "gpetty5@t-online.de",
-  "ip_address": "127.137.182.142"
-}, {
-  "id": 7,
-  "first_name": "Ingmar",
-  "last_name": "MacGorman",
-  "email": "imacgorman6@blinklist.com",
-  "ip_address": "111.141.158.218"
-}, {
-  "id": 8,
-  "first_name": "Holly",
-  "last_name": "Buffham",
-  "email": "hbuffham7@ehow.com",
-  "ip_address": "90.84.78.17"
-}, {
-  "id": 9,
-  "first_name": "Baron",
-  "last_name": "Hemphrey",
-  "email": "bhemphrey8@tuttocitta.it",
-  "ip_address": "64.241.236.193"
-}, {
-  "id": 10,
-  "first_name": "Bertie",
-  "last_name": "O'Brogane",
-  "email": "bobrogane9@hibu.com",
-  "ip_address": "152.35.195.35"
-}, {
-  "id": 11,
-  "first_name": "Lannie",
-  "last_name": "Spacie",
-  "email": "lspaciea@flavors.me",
-  "ip_address": "85.108.60.236"
-}, {
-  "id": 12,
-  "first_name": "Thalia",
-  "last_name": "Moody",
-  "email": "tmoodyb@home.pl",
-  "ip_address": "43.172.175.0"
-}, {
-  "id": 13,
-  "first_name": "Gordie",
-  "last_name": "Vasyunkin",
-  "email": "gvasyunkinc@ucsd.edu",
-  "ip_address": "126.241.3.33"
-}, {
-  "id": 14,
-  "first_name": "Antony",
-  "last_name": "Morpeth",
-  "email": "amorpethd@marriott.com",
-  "ip_address": "134.211.238.210"
-}, {
-  "id": 15,
-  "first_name": "Cristina",
-  "last_name": "Dack",
-  "email": "cdacke@cocolog-nifty.com",
-  "ip_address": "14.198.242.106"
-}]
+{
+   "users":[
+      {
+         "id":1,
+         "first_name":"Sheila",
+         "last_name":"Jockle",
+         "email":"sjockle0@skyrock.com",
+         "ip_address":"29.2.44.125"
+      },
+      {
+         "id":2,
+         "first_name":"Ardyce",
+         "last_name":"Studdeard",
+         "email":"astuddeard1@odnoklassniki.ru",
+         "ip_address":"10.85.78.207"
+      },
+      {
+         "id":3,
+         "first_name":"Ivar",
+         "last_name":"Boxill",
+         "email":"iboxill2@cbslocal.com",
+         "ip_address":"101.5.208.26"
+      },
+      {
+         "id":4,
+         "first_name":"Stanly",
+         "last_name":"Bartolomeoni",
+         "email":"sbartolomeoni3@drupal.org",
+         "ip_address":"127.190.112.82"
+      },
+      {
+         "id":5,
+         "first_name":"Alli",
+         "last_name":"Fahrenbacher",
+         "email":"afahrenbacher4@addtoany.com",
+         "ip_address":"234.142.164.39"
+      },
+      {
+         "id":6,
+         "first_name":"Georgi",
+         "last_name":"Petty",
+         "email":"gpetty5@t-online.de",
+         "ip_address":"127.137.182.142"
+      },
+      {
+         "id":7,
+         "first_name":"Ingmar",
+         "last_name":"MacGorman",
+         "email":"imacgorman6@blinklist.com",
+         "ip_address":"111.141.158.218"
+      },
+      {
+         "id":8,
+         "first_name":"Holly",
+         "last_name":"Buffham",
+         "email":"hbuffham7@ehow.com",
+         "ip_address":"90.84.78.17"
+      },
+      {
+         "id":9,
+         "first_name":"Baron",
+         "last_name":"Hemphrey",
+         "email":"bhemphrey8@tuttocitta.it",
+         "ip_address":"64.241.236.193"
+      },
+      {
+         "id":10,
+         "first_name":"Bertie",
+         "last_name":"O'Brogane",
+         "email":"bobrogane9@hibu.com",
+         "ip_address":"152.35.195.35"
+      },
+      {
+         "id":11,
+         "first_name":"Lannie",
+         "last_name":"Spacie",
+         "email":"lspaciea@flavors.me",
+         "ip_address":"85.108.60.236"
+      },
+      {
+         "id":12,
+         "first_name":"Thalia",
+         "last_name":"Moody",
+         "email":"tmoodyb@home.pl",
+         "ip_address":"43.172.175.0"
+      },
+      {
+         "id":13,
+         "first_name":"Gordie",
+         "last_name":"Vasyunkin",
+         "email":"gvasyunkinc@ucsd.edu",
+         "ip_address":"126.241.3.33"
+      },
+      {
+         "id":14,
+         "first_name":"Antony",
+         "last_name":"Morpeth",
+         "email":"amorpethd@marriott.com",
+         "ip_address":"134.211.238.210"
+      },
+      {
+         "id":15,
+         "first_name":"Cristina",
+         "last_name":"Dack",
+         "email":"cdacke@cocolog-nifty.com",
+         "ip_address":"14.198.242.106"
+      }
+   ],
+   "events":[
+      {
+         "id":5928101,
+         "category":"animal welfare",
+         "title":"Pinky Day",
+         "description":"Find your new feline friend at this event.",
+         "location":"Meow Town",
+         "date":"January 28, 2022",
+         "time":"12:00",
+         "petsAllowed":true,
+         "organizer":"Kat Laydee"
+      },
+      {
+         "id":5928102,
+         "category":"animal welfare",
+         "title":"Rainbow Week",
+         "description":"Find your new feline friend at this event.",
+         "location":"Meow Town",
+         "date":"January 28, 2022",
+         "time":"12:00",
+         "petsAllowed":true,
+         "organizer":"Kat Laydee"
+      },
+      {
+         "id":5928103,
+         "category":"animal welfare",
+         "title":"Fluffy ",
+         "description":"Find your new feline friend at this event.",
+         "location":"Meow Town",
+         "date":"January 28, 2022",
+         "time":"12:00",
+         "petsAllowed":true,
+         "organizer":"Kat Laydee"
+      }
+   ]
+}
